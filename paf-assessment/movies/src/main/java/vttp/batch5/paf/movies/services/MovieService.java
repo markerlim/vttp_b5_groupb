@@ -26,7 +26,6 @@ import net.sf.jasperreports.engine.JasperPrint;
 import net.sf.jasperreports.engine.JasperReport;
 import net.sf.jasperreports.engine.util.JRLoader;
 import net.sf.jasperreports.json.data.JsonDataSource;
-import net.sf.jasperreports.pdf.JRPdfExporter;
 import vttp.batch5.paf.movies.models.MovieDetails;
 import vttp.batch5.paf.movies.models.DirectorStats;
 import vttp.batch5.paf.movies.models.MovieStats;
